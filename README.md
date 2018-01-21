@@ -1,6 +1,36 @@
 Instagram Challenge
 ===================
 
+## My User Stories:
+
+As a web developer  
+So Users can use my website  
+Users must be able to sign up, log out, and sign in
+
+As a web developer  
+To avoid confusion  
+All users must have unique emails and usernames
+
+As a User  
+To flex on the gram  
+I must be able to upload an image
+
+As a web developer  
+To keep track of images  
+All user uploads must be added to a database
+
+As a User  
+To see what others are up to  
+I want a feed of images in chronological order
+
+As a User  
+So I can interact with others  
+I want the ability to comment on and like pictures
+
+
+
+
+=============================
 ## Instructions
 
 * Challenge time: one weekend
