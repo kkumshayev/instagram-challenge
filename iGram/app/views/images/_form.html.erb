@@ -1,0 +1,18 @@
+<%= form_with(model: @image, local: true) do |form| %>
+
+  <div class="field">
+    <%= form.label :name %>
+    <form action=>
+      <input type="file" name="pic" accept="image/*">
+    </form>
+  </div>
+
+  <div class="field">
+    <%= form.label :caption %>
+    <%= form.text_field :caption, id: :image_caption %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
